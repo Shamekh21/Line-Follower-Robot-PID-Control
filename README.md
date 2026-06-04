@@ -49,7 +49,12 @@ The robot chassis was designed and assembled using **SolidWorks**, focusing on l
 | Custom Chassis | Mechanical structure |
 
 ---
+# 📷 Hardware Overview
 
+![Hardware Overview](Images/hardware_overview.jpg)
+
+The figure illustrates the main hardware architecture of the robot, including the Arduino controller, L298N motor driver, infrared sensor array, differential drive system, battery pack, and chassis layout.
+---
 # 🧠 Control Strategy
 
 The robot uses a **PID (Proportional-Integral-Derivative) Controller** to continuously minimize the tracking error between the robot's position and the detected line.
