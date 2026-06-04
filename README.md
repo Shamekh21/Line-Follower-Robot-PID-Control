@@ -18,7 +18,7 @@ The robot chassis was designed and assembled using **SolidWorks**, focusing on l
 
 ## 🎥 Demonstration
 
-![Robot Demo](Media/line_follower_demo.gif)
+<img src="Media/line_follower_demo.gif" width="400">
 
 ---
 
