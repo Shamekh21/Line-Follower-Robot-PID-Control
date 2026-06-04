@@ -51,7 +51,7 @@ The robot chassis was designed and assembled using **SolidWorks**, focusing on l
 ---
 # 📷 Hardware Overview
 
-![Hardware Overview](Images/hardware_overview.jpg)
+![Hardware Overview](Images/hardware_overview.jpeg)
 
 The figure illustrates the main hardware architecture of the robot, including the Arduino controller, L298N motor driver, infrared sensor array, differential drive system, battery pack, and chassis layout.
 ---
