@@ -40,10 +40,10 @@ The robot chassis was designed and assembled using **SolidWorks**, focusing on l
 
 | Component | Description |
 |------------|------------|
-| Arduino Uno | Main controller |
+| Arduino nano | Main controller |
 | L298N Motor Driver | Motor control |
-| 2 DC Geared Motors | Robot locomotion |
-| 5 IR Line Sensors | Line detection |
+| 2 DC Geared Motors | Robot locomotion(DC Gear Motor JGA25-370 (780RPM - 12V)) |
+| 5 IR Line Sensors | Line detection(TCRT5000 Tracking Line Follower Sensor) |
 | Caster Wheel | Balance and support |
 | Li-ion Battery Pack | Power supply |
 | Custom Chassis | Mechanical structure |
@@ -142,31 +142,6 @@ The robot was tested during the Mobile Robots course competition.
 6. PID Tuning
 7. Testing and Validation
 8. Competition Deployment
-
----
-
-# 📂 Repository Structure
-
-```text
-Line-Follower-Robot-PID-Control
-│
-├── README.md
-│
-├── Code
-│   └── line_follower_pid.ino
-│
-├── CAD
-│   └── Chassis_Design.png
-│
-├── Media
-│   └── line_follower_demo.gif
-│
-├── Hardware
-│   └── Components_List.md
-│
-└── Docs
-    └── Competition_Result.png
-```
 
 ---
 
