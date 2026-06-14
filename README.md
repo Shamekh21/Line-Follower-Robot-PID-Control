@@ -10,7 +10,7 @@ The project successfully participated in a line follower competition organized d
 
 ## 📸 Robot Design
 
-![Robot Design](CAD/Chassis_Design.png)
+![Robot Design](CAD/Chassis_Design_2.png)
 
 The robot chassis was designed and assembled using **SolidWorks**, focusing on lightweight construction, stability, and efficient sensor placement for optimal line tracking performance.
 
