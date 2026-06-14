@@ -35,6 +35,30 @@ The robot chassis was designed and assembled using **SolidWorks**, focusing on l
 - Custom mechanical design
 
 ---
+--# System Architecture
+
+```text
+IR Sensor Array
+       │
+       ▼
+Error Calculation
+       │
+       ▼
+PID Controller
+       │
+       ▼
+Motor Speed Correction
+       │
+       ▼
+L298N Driver
+       │
+       ▼
+DC Motors
+       │
+       ▼
+Robot Motion
+```
+---
 
 # ⚙️ Hardware Components
 
